@@ -1,0 +1,15 @@
+1. Find the names of all students who have taken every course taught by Eric Lee.
+
+2. Find the names of all students who have never taken any course taught by Eric Lee.
+
+3. Calculate the number and average GPA of those students who have never taken any course taught by
+Eric Lee. (The GPA of a student is simply the average of all his grades in TABLE GRADE. Students who
+have not taken any course do not have a GPA.)
+
+4. Find the IDs of all courses which have never been taken by any student who has taken at least one
+course taught by Eric Lee.
+
+5. Find the IDs of all students who have only taken courses taught by Eric Lee.
+
+6. Find the IDs of all courses satisfying following conditions: (i) they are taught by Eric Lee; and (ii) no
+student who has taken the course gets a score below 60.
